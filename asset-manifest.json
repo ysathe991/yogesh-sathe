@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yogesh-sathe/static/css/main.dac6ee4c.css",
+    "main.js": "/yogesh-sathe/static/js/main.2b1c75a1.js",
+    "static/js/787.9e19884a.chunk.js": "/yogesh-sathe/static/js/787.9e19884a.chunk.js",
+    "index.html": "/yogesh-sathe/index.html",
+    "main.dac6ee4c.css.map": "/yogesh-sathe/static/css/main.dac6ee4c.css.map",
+    "main.2b1c75a1.js.map": "/yogesh-sathe/static/js/main.2b1c75a1.js.map",
+    "787.9e19884a.chunk.js.map": "/yogesh-sathe/static/js/787.9e19884a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac6ee4c.css",
+    "static/js/main.2b1c75a1.js"
+  ]
+}
